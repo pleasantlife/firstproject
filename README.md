@@ -1,7 +1,10 @@
-# firstproject
+﻿# firstproject
 처음 만든 깃허브 레파지토리
 
 한글 입력이 잘안된다고 합니다?
+
+하지만 메모장으로 열어서 입력하면 잘 되죠.
+안녕하세요
 
 
 # Category level
