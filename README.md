@@ -1,10 +1,12 @@
-﻿# firstproject
+# firstproject
 처음 만든 깃허브 레파지토리
 
 한글 입력이 잘안된다고 합니다?
 
 하지만 메모장으로 열어서 입력하면 잘 되죠.
+
 안녕하세요 반가워요. 이거 쉽지가 않네요.
+
 뭐죠 왜 고쳤는데 반영을 못하는거죠???
 
 # Category level
@@ -30,4 +32,5 @@ public class FirstJava{
 }
 ```
 
-
+## add contents
+I tried new text to readme file that using Github website.
