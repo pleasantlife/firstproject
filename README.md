@@ -5,10 +5,13 @@
 
 
 # Category level
-You can set 7 category levels in Github.
+You can set 6 category levels in Github.
 
 If you want set a Category title,
 you just write # char that front of title.
+
+If you want down the category level,
+you write more # char.
 
 
 # Function of '`' Character
@@ -23,12 +26,5 @@ public class FirstJava{
   }
 }
 ```
-
-## 2nd
-### 3rd
-#### 4th
-##### 5th
-###### 6th
-####### 7th
 
 
