@@ -1,4 +1,4 @@
-# firstproject
+﻿# firstproject
 처음 만든 깃허브 레파지토리
 
 한글 입력이 잘안된다고 합니다?
@@ -32,5 +32,7 @@ public class FirstJava{
 }
 ```
 
-## add contents
-I tried new text to readme file that using Github website.
+## 컨텐츠 추가
+이번에는 메모장에서 컨텐츠 추가를 해보았습니다.
+
+과연 잘 될까요????
