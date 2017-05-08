@@ -13,8 +13,9 @@ you just write # char that front of title.
 
 # Function of '`' Character
 If you want set a high-light in source code,
-you just write your programming-language name besides '''
-Example
+you just write your programming-language name besides '```'.
+
+For example,
 ```java
 public class FirstJava{
   public firstJava(){
