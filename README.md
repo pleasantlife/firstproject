@@ -4,7 +4,8 @@
 
 
 # Category level
-You can set 7 category levels in Github
+You can set 7 category levels in Github.
+
 If you want set a Category title,
 you just write # char that front of title.
 
